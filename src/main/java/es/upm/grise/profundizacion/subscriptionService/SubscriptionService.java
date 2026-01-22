@@ -9,14 +9,13 @@ public class SubscriptionService {
 
     /*
      * Constructor
-     * - No hay ningún usuario suscrito al inicio
      */
     public SubscriptionService() {
         this.subscribers = new HashSet<>();
     }
 
     /*
-     * Method to code / test
+     * metodo nuevo 
      */
     public void addSubscriber(User user) {
 
@@ -36,9 +35,6 @@ public class SubscriptionService {
         subscribers.add(user);
     }
 
-    /*
-     * Other setters & getters
-     */
     public Collection<User> getSubscribers() {
         return subscribers;
     }
