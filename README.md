@@ -1,2 +1,4 @@
-# SubscriptionService
-Complete code for the SubscriptionService task - Testing Bias experiment
+Xavier Altamirano 
+
+PARTE A2
+
